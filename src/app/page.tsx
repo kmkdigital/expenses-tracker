@@ -55,7 +55,7 @@ export default function Home() {
             LEDGER_v1.0
           </div>
           <h1 className="font-display" style={{ fontSize: 22, color: 'var(--text)' }}>
-            Expense Dashboard
+            Expense Tracker Dashboard
           </h1>
           <p style={{ fontSize: 13, color: 'var(--text-3)', marginTop: 2 }}>
             {transactions.length} transactions imported and categorized
